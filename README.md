@@ -1,4 +1,4 @@
-# Arcane Final IA
+# Oraculo
 
 Este projeto é um fork de [Pythonando/arcane-final](https://github.com/Pythonando/arcane-final) com ajustes e melhorias.
 
@@ -30,8 +30,8 @@ Aplicação Django com integração à OpenAI e uso de NLP para construção de 
 ### 1. Clone o projeto
 
 ```bash
-git clone https://github.com/e-brendon/arcane-final_IA.git
-cd arcane-final_IA
+git clone https://github.com/e-brendon/oraculo.git
+cd oraculo
 ```
 
 ### 2. Crie um ambiente virtual
@@ -82,7 +82,7 @@ Acesse via navegador: `http://localhost:8000/oraculo/`
 ## 📂 Estrutura principal
 
 ```
-arcane-final_IA/
+oraculo/
 ├── core/               # Configurações principais do Django
 ├── oraculo/            # App responsável pelo chat e IA
 ├── usuarios/           # App de autenticação de usuários
