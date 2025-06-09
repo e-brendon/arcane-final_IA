@@ -56,7 +56,7 @@ OPENAI_API_KEY=sua-chave-da-openai
 ```
 
 Ou copie o arquivo env_base para .env e coloque a chave do chatGPT
-````
+```
 cp env_base .env
 ```
 ### 5. Execute as migrações
